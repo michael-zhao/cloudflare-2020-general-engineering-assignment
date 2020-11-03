@@ -1,2 +1,1 @@
 https://myapp.michael-zhao.workers.dev/
-https://myapp.michael-zhao.workers.dev/links
